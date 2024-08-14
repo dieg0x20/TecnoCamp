@@ -12,7 +12,10 @@ CSS
 
 Javascript
 
- 
-
----
-feito com ❤️ por [Diego Francisco](https://github.com/dieg0x20) 😊
+#
+<div align="center">
+ <p>
+  feito por <a href="https://github.com/dieg0x20">Diego Francisco</a> e os aliens
+</p>
+  <img style="width: 50px;" src="https://lowsec-community.vercel.app/assets/alien.png" alt="alien"/>
+</div>
