@@ -15,4 +15,4 @@ Javascript
  
 
 ---
-feito com ❤️ por [Diego Francisco](https://gist.github.com/dieg0x20) 😊
+feito com ❤️ por [Diego Francisco](https://github.com/dieg0x20) 😊
